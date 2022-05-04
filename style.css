@@ -1,9 +1,9 @@
 *{
-    background-color: greenyellow;
+    background-color: tan;
     text-align: center
 }
 .header {
-    color: red;
+    color: black;
     font-family: sans-serif;
     font-weight: 700;
     text-align:center
@@ -14,4 +14,14 @@
     text-align: center;
     text-shadow: 1in;
     font-weight: 700;
+}
+
+
+.foodName {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:700;
+    text-align: center;
+    color: red;
+    
 }
