@@ -1,0 +1,17 @@
+*{
+    background-color: greenyellow;
+    text-align: center
+}
+.header {
+    color: red;
+    font-family: sans-serif;
+    font-weight: 700;
+    text-align:center
+}
+
+.returnTop { 
+    color:brown;
+    text-align: center;
+    text-shadow: 1in;
+    font-weight: 700;
+}
